@@ -1,3 +1,4 @@
+#django-blank
 <H1>
 Imagine a blank canvas
 </H1>
