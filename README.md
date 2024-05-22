@@ -21,11 +21,14 @@ TODO activate environment and `pip install django`
 <br>
 TODO django-admin startproject MYPROJECT
 <br>
+TODO [Create a new django app](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
+<br>
 TODO enjoy
 <br>
 <br>
 <h4>
 References
 </h4>
-[github docs: duplicating a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository)
+[Duplicating a Repository | docs.github.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository)
+<br>[Tutorial 1 | docs.djangoproject.com](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
 </body>
